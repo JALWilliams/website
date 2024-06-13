@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/JALWilliams/website/static/css/main.34a75232.css",
+    "main.js": "/JALWilliams/website/static/js/main.ea72d847.js",
+    "index.html": "/JALWilliams/website/index.html",
+    "main.34a75232.css.map": "/JALWilliams/website/static/css/main.34a75232.css.map",
+    "main.ea72d847.js.map": "/JALWilliams/website/static/js/main.ea72d847.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34a75232.css",
+    "static/js/main.ea72d847.js"
+  ]
+}
