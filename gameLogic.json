@@ -1,0 +1,22 @@
+[
+  {
+    "id": "slide-1",
+    "backgrounImage": "linkToImage",
+    "soundEffect": {
+      "hasSound": true,
+      "soundName": "blah"
+    },
+    "interactions": [
+      {
+        "budget": "Value",
+        "type": "button",
+        "points": "3"
+      },
+      {
+        "Co2": "Value",
+        "type": "slider",
+        "points": "3"
+      }
+    ]
+  }
+]
