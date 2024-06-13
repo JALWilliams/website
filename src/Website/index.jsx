@@ -98,7 +98,7 @@ const Website = () => {
               </a>
             </p>
             <p>
-              <a href="https://github.com/ft-interactive" target="blank">
+              <a href="https://github.com/JALWilliams" target="blank">
                 GitHub
               </a>
             </p>
@@ -108,7 +108,7 @@ const Website = () => {
           <h4>Social</h4>
           <div className="infobox-social-links">
             <p>
-              <a href="">Email</a>
+              <a href="mailto:justine.williams@ft.com">Email</a>
             </p>
             <p>
               <a href="https://twitter.com/jalwilliams_" target="blank">
