@@ -11,7 +11,8 @@ const Website = () => {
 
   useEffect(() => {
     const { width, height } = window.visualViewport;
-    const calculatedStartPoints = width > 720 ? width / 8 : width / 4;
+    const calculatedStartPoints =
+      width > 1770 ? width / 8 : width > 720 ? width / 9 : width / 3;
 
     setContainerHeight(height);
     setSunRadius(calculatedStartPoints);
@@ -23,7 +24,8 @@ const Website = () => {
   useEffect(() => {
     const handleResize = () => {
       const { width, height } = window.visualViewport;
-      const calculatedStartPoints = width > 1440 ? width / 8 : width / 3;
+      const calculatedStartPoints =
+        width > 1770 ? width / 8 : width > 720 ? width / 9 : width / 3;
 
       setContainerHeight(height);
       setSunRadius(calculatedStartPoints);
